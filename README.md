@@ -4,6 +4,8 @@ Toma una foto de un texto o pregunta, lo lee con OCR y envía el
 contenido a la IA que elijas (DeepSeek, Claude u OpenAI) para obtener
 una respuesta en streaming — directo desde tu teléfono Android.
 
+**Autor:** Brayan Barco
+
 Este repositorio publica únicamente los **releases** (el APK listo para
 instalar). El código fuente se desarrolla en un repositorio privado.
 
